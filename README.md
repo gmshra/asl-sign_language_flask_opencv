@@ -30,8 +30,7 @@
 
 5. Run the application
 
-    - [Papirus - Icon theme](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme)
-
+   
     ```shell
 
     python app.py -i 0.0.0.0 -o 8080
