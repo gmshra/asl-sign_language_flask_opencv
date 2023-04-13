@@ -1,0 +1,4 @@
+onnxruntime
+flask
+opencv-python
+numpy
